@@ -1,0 +1,1 @@
+insert into users(name, email, password, role) values('admin','admin@admin', 'admin', 'ADMIN');
